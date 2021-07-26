@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @taylorsyde
-- 👀 I’m interested in STEAM education and reducing worldsuck.
-- 🌱 I’m currently learning everything data analytics.
-- 💞️ I’m looking to collaborate on ... TBD
-- 📫 How to reach me ... TBD
+- 👋 Hi, I’m Taylor. (she/her)
+- 👀 I’m interested in STEAM education, enviornmental stewardship, and reducing worldsuck.
+- 🌱 I’m currently enrolled in Data Analytics Boot Camp at UTSA
+- 💞️ I’m looking to collaborate on an analysis of green death practices. 
+- 📫 How to reach me ...TBD
 
 <!---
 taylorsyde/taylorsyde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
