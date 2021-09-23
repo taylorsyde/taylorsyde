@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Taylor. (she/her)
-- 👀 I’m interested in STEAM education, enviornmental stewardship, and reducing worldsuck.
+- 👋 Hello, I’m Taylor. (she/her)
+- 🧠 I’m a passionate STEAM communicator and emerging data analyst with a Bachelors' in Mathematics.
 - 📚 I’m currently enrolled in Data Analytics Boot Camp at UTSA. 
-- 💞️ I’m looking to collaborate on an analysis of green death practices. 
-- 📫 How to reach me ...TBD
+- ✍️ I’m looking to collaborate on projects related (but not limited) to, green death practices, environmental stewardship, and STEM education. 
+- 📬 Let's keep in touch. tay.lyons@hotmail.com 
 
 <!---
 taylorsyde/taylorsyde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
