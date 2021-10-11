@@ -1,8 +1,7 @@
 - 👋 Hello, I’m Taylor. (she/her)
-- 🧠 I’m a passionate STEAM communicator and emerging data analyst with a Bachelors' in Mathematics.
-- 📚 I’m currently enrolled in Data Analytics Boot Camp at UTSA. 
-- ✍️ I’m looking to collaborate on projects related (but not limited) to, green death practices, environmental stewardship, and STEM education. 
-- 📬 Let's get in touch.
+- 🧠 I’m a passionate STEM communicator and emerging data analyst with a Bachelors' in Mathematics.
+- 📚 I’m currently enrolled in Data Analytics Boot Camp at UTSA and maintaining an A average. 
+- ✍️ I’m looking to collaborate on projects related (but not limited) to; green death practices, environmental stewardship, and STEM education. 
 
 <!---
 taylorsyde/taylorsyde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
